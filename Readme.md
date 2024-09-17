@@ -1,7 +1,7 @@
 
-Here’s a simple README file that you can include with your game project:
 
-Floppy Bird
+
+Flappy Bird
 A browser-based Flappy Bird clone made using HTML, CSS, and JavaScript.
 
 Game Description
